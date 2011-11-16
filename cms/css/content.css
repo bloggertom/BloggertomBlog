@@ -1,0 +1,95 @@
+#content{
+		border:1px solid black;
+		width:900px;
+		float:left;
+		padding:1em;
+        padding-top:5px
+		}
+#content a{
+        text-decoration:none;
+        
+        }
+        
+/*users table*/
+#content table{
+        border-collapse:collapse;
+        
+        }
+#content table{
+        margin-left:8%
+}
+#content td{
+        padding:4px;
+}
+#content th{
+        padding:3px;
+}
+#content td a{
+        margin-left:1em;
+        margin-right:1em;
+}
+
+h3.center {
+    text-align:center;
+}
+
+div.postDis{
+		border:1px solid black;
+		}
+div.postDis h3{
+		margin-left:1em;
+		}
+div.postDis ul{
+		list-style-type:none;
+		}
+div.postDis li{
+		display:inline;
+		margin:2em;
+		font-size:18px;
+		}
+div.postDisLinks ul{
+		list-style-type:none;
+		margin-bottom:2em;
+		}
+div.postDisLinks li{
+		display:inline;
+		margin-left:2em;
+		}
+div.postDisLinks a{
+		font-family:monospace;
+		}
+        
+/*comments in opened post*/
+#openPostComments {
+        border:1px solid black;
+        }
+div.comment {
+        padding 1em;
+        margin:1em;
+        margin-bottom:0em;
+}
+div.comment ul{
+        list-style-type:none;
+        padding:0px;
+        margin:0em;
+        
+        
+}
+div.comment li{
+        display:inline;
+        margin-left:2em;
+        padding:0em;
+        
+}
+div.comment li:first-child{
+        display:inline;
+        margin-left:0em;
+        padding:0px;
+}
+div.comment div{
+        background-color:white;
+        padding:0.5em;
+        }
+div.comment a {
+        color:red;
+}

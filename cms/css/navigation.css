@@ -1,0 +1,22 @@
+#nav{
+		border:1px solid black;
+		width:10em;
+		float: left;
+		margin-right:3em;
+		text-align:center;
+		}
+#nav ul{
+		list-style-type:none;
+		margin:0px;
+		padding:0px;
+		}
+#nav li{
+		margin:0px;
+		padding:0px;
+		}
+#nav a {
+		text-decoration:none;
+		margin:0px;
+		padding:0px;
+		}
+		

@@ -1,0 +1,35 @@
+#fullpage {
+		color:#cccc66;
+		background-color:black;
+		width:990px;
+		padding-top:0px;
+		border:4px solid #333;
+        border-top:0px;
+		margin-left:10em;
+		
+		}
+form.registration{
+		margin-left:21em;
+		margin-bottom:4em;
+		margin-top:4em;
+		}
+#pageTitle{
+		font-family:Verdana, sans-serif;
+		background-color:#222;
+		/*border-bottom:4px solid #333;*/
+        height:50px;
+		color:#cccc66;
+		font-size:18px;
+		text-align:center;
+		padding:1em;
+		padding-bottom:0em;
+        
+		}
+#pageTitle h3{
+		margin:0px;
+		padding:0px;
+		}
+#fullpage td {
+		padding-top:15px;
+		padding-left:5px;
+		}

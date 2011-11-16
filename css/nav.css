@@ -1,0 +1,31 @@
+#nav {
+		position:relative;
+		left:120px;
+		background:url("../images/nav.jpg") ;
+		border:4px solid #333;
+		height:2em;
+		width:1050px;
+		padding-top:10px;
+		padding-bottom:0px;
+		padding-left:2em;
+	}
+#nav ul{
+		list-style-type:none;
+		padding:0pt;
+		margin:0em;	
+		}
+		
+#nav li {
+		display:inline;
+		padding-left:0.5em;
+		padding-right:0.5em;
+		height:30px;
+		}
+#nav a{
+		font-family: monospace;
+		font-weight:20pt;
+		font-size:19px;
+		text-decoration:none;
+		color:#cccc66;
+		}
+#nav a:hover{text-decoration:underline;}

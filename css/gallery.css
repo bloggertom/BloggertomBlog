@@ -1,0 +1,25 @@
+#gallery {
+		padding:2em;
+		color:#cccc66;
+}
+		
+#gallery table {
+		border-collapse:collapse;
+		margin-bottom:1em;
+}
+#gallery table td {
+		padding:13px;
+}
+#gallery a {
+		color: #cccc66;
+		text-decoration:Bold;	
+}
+#galleryFilter {
+	font-size:13px;
+	font-family:Verdana, sans-serif;
+	padding:1em;
+	padding-top:0.1em;
+}
+#galleryFiler form {
+	
+}
